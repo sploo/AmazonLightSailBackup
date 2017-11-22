@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\LightSailBackup.Tests.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\LightSailBackup.Tests.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\LightSailBackup.Tests.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\LightSailBackup.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\LightSailBackup.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\LightSailBackup.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\bin\Release\netcoreapp1.0\LightSailBackup.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\obj\Release\netcoreapp1.0\LightSailBackup.Tests.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\obj\Release\netcoreapp1.0\LightSailBackup.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup.Tests\obj\Release\netcoreapp1.0\LightSailBackup.Tests.pdb

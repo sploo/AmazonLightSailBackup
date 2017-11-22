@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2017\Projects\LightSailBackup\bin\Debug\netcoreapp1.0\LightSailBackup.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\LightSailBackup\bin\Debug\netcoreapp1.0\LightSailBackup.dll
+c:\users\administrator\documents\visual studio 2017\Projects\LightSailBackup\obj\Debug\netcoreapp1.0\LightSailBackup.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\LightSailBackup\obj\Debug\netcoreapp1.0\LightSailBackup.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup\bin\Debug\netcoreapp1.0\LightSailBackup.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup\bin\Debug\netcoreapp1.0\LightSailBackup.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup\bin\Debug\netcoreapp1.0\LightSailBackup.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup\obj\Debug\netcoreapp1.0\LightSailBackup.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup\obj\Debug\netcoreapp1.0\LightSailBackup.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup\obj\Debug\netcoreapp1.0\LightSailBackup.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\LightSailBackup\LightSailBackup\obj\Debug\netcoreapp1.0\LightSailBackup.pdb
